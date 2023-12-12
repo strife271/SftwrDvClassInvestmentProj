@@ -1,0 +1,72 @@
+2023-12-04 16:43:35,134 - __main__ - INFO - Transactions file: {filename} created.
+2023-12-06 21:47:07,545 - __main__ - INFO - Transactions file: {filename} appended.
+2023-12-07 14:43:14,107 - __main__ - INFO - Transactions file: transactions.csv appended.
+2023-12-07 14:46:16,069 - __main__ - INFO - Portfolio file: portfolio.csv read in to memory.
+2023-12-07 17:02:38,781 - __main__ - INFO - Portfolio file: portfolio.csv read into memory.
+2023-12-07 17:03:24,924 - __main__ - INFO - Portfolio file: portfolio.csv written to drive.
+2023-12-07 17:03:24,924 - __main__ - INFO - Transactions file: transactions.csv written in mode: a.
+2023-12-08 12:21:21,513 - __main__ - INFO - Portfolio file: portfolio.csv read into memory.
+2023-12-08 12:21:43,087 - __main__ - INFO - The latest price of t is: 16.914100646972656
+2023-12-08 12:21:43,189 - __main__ - INFO - The latest price of o is: 53.6875
+2023-12-08 12:21:43,338 - __main__ - INFO - The latest price of ibm is: 161.0
+2023-12-08 12:21:43,538 - __main__ - INFO - The latest price of VYM is: 107.30999755859375
+2023-12-08 12:21:43,723 - __main__ - INFO - The latest price of mmm is: 103.18000030517578
+2023-12-08 16:25:51,875 - __main__ - INFO - Portfolio file: portfolio.csv read into memory.
+2023-12-08 16:28:35,564 - __main__ - INFO - Portfolio file: portfolio.csv written to drive.
+2023-12-08 16:28:35,564 - __main__ - INFO - Transactions file: transactions.csv written in mode: a.
+2023-12-08 16:28:37,361 - __main__ - INFO - The latest price of t is: 16.920000076293945
+2023-12-08 16:28:37,461 - __main__ - INFO - The latest price of o is: 53.86000061035156
+2023-12-08 16:28:37,600 - __main__ - INFO - The latest price of ibm is: 161.9600067138672
+2023-12-08 16:28:37,693 - __main__ - INFO - The latest price of VYM is: 107.5999984741211
+2023-12-08 16:28:37,858 - __main__ - INFO - The latest price of mmm is: 103.37000274658203
+2023-12-08 16:28:37,898 - __main__ - INFO - The latest price of t is: 16.920000076293945
+2023-12-08 16:28:37,938 - __main__ - INFO - The latest price of o is: 53.86000061035156
+2023-12-08 16:28:37,979 - __main__ - INFO - The latest price of ibm is: 161.9600067138672
+2023-12-08 16:28:38,017 - __main__ - INFO - The latest price of VYM is: 107.5999984741211
+2023-12-08 16:28:38,057 - __main__ - INFO - The latest price of mmm is: 103.37000274658203
+2023-12-08 16:29:44,401 - __main__ - INFO - Portfolio file: portfolio.csv read into memory.
+2023-12-08 16:29:49,577 - __main__ - INFO - Portfolio file: portfolio.csv written to drive.
+2023-12-08 16:29:49,578 - __main__ - INFO - Transactions file: transactions.csv written in mode: a.
+2023-12-08 16:29:50,447 - __main__ - INFO - The latest price of t is: 16.920000076293945
+2023-12-08 16:29:50,569 - __main__ - INFO - The latest price of o is: 53.86000061035156
+2023-12-08 16:29:50,725 - __main__ - INFO - The latest price of ibm is: 161.9600067138672
+2023-12-08 16:29:50,829 - __main__ - INFO - The latest price of VYM is: 107.5999984741211
+2023-12-08 16:29:51,495 - __main__ - INFO - The latest price of mmm is: 103.37000274658203
+2023-12-08 16:29:51,533 - __main__ - INFO - The latest price of t is: 16.920000076293945
+2023-12-08 16:29:51,573 - __main__ - INFO - The latest price of o is: 53.86000061035156
+2023-12-08 16:29:51,612 - __main__ - INFO - The latest price of ibm is: 161.9600067138672
+2023-12-08 16:29:51,650 - __main__ - INFO - The latest price of VYM is: 107.5999984741211
+2023-12-08 16:29:51,688 - __main__ - INFO - The latest price of mmm is: 103.37000274658203
+2023-12-08 16:39:53,034 - __main__ - INFO - Portfolio file: portfolio.csv read into memory.
+2023-12-08 16:40:46,849 - __main__ - INFO - Portfolio file: portfolio.csv written to drive.
+2023-12-08 16:40:46,849 - __main__ - INFO - Transactions file: transactions.csv written in mode: a.
+2023-12-08 16:40:47,741 - __main__ - INFO - The latest price of t is: 16.920000076293945
+2023-12-08 16:40:47,852 - __main__ - INFO - The latest price of o is: 53.86000061035156
+2023-12-08 16:40:47,989 - __main__ - INFO - The latest price of ibm is: 161.9600067138672
+2023-12-08 16:40:48,083 - __main__ - INFO - The latest price of VYM is: 107.5999984741211
+2023-12-08 16:40:48,231 - __main__ - INFO - The latest price of mmm is: 103.37000274658203
+2023-12-08 16:40:48,268 - __main__ - INFO - The latest price of t is: 16.920000076293945
+2023-12-08 16:40:48,306 - __main__ - INFO - The latest price of o is: 53.86000061035156
+2023-12-08 16:40:48,343 - __main__ - INFO - The latest price of ibm is: 161.9600067138672
+2023-12-08 16:40:48,380 - __main__ - INFO - The latest price of VYM is: 107.5999984741211
+2023-12-08 16:40:48,418 - __main__ - INFO - The latest price of mmm is: 103.37000274658203
+2023-12-08 16:40:48,419 - __main__ - INFO - Portfolio file: gain_loss_report.csv written to drive.
+2023-12-08 16:42:31,165 - __main__ - INFO - Portfolio file: portfolio.csv read into memory.
+2023-12-08 16:42:34,278 - __main__ - INFO - Portfolio file: portfolio.csv written to drive.
+2023-12-08 16:42:34,278 - __main__ - INFO - Transactions file: transactions.csv written in mode: a.
+2023-12-08 16:42:35,162 - __main__ - INFO - The latest price of t is: 16.920000076293945
+2023-12-08 16:42:35,266 - __main__ - INFO - The latest price of o is: 53.86000061035156
+2023-12-08 16:42:35,411 - __main__ - INFO - The latest price of ibm is: 161.9600067138672
+2023-12-08 16:42:35,495 - __main__ - INFO - The latest price of VYM is: 107.5999984741211
+2023-12-08 16:42:35,650 - __main__ - INFO - The latest price of mmm is: 103.37000274658203
+2023-12-08 16:42:35,650 - __main__ - INFO - Portfolio file: gain_loss_report.csv written to drive.
+2023-12-09 15:58:03,452 - __main__ - INFO - Portfolio file: portfolio.csv read into memory.
+2023-12-09 16:00:01,878 - __main__ - INFO - Portfolio file: portfolio.csv written to drive.
+2023-12-09 16:00:01,878 - __main__ - INFO - Transactions file: transactions.csv written in mode: a.
+2023-12-09 16:00:20,303 - __main__ - INFO - The latest price of t is: 16.920000076293945
+2023-12-09 16:00:20,476 - __main__ - INFO - The latest price of o is: 53.86000061035156
+2023-12-09 16:00:20,622 - __main__ - INFO - The latest price of ibm is: 161.9600067138672
+2023-12-09 16:00:20,710 - __main__ - INFO - The latest price of VYM is: 107.5999984741211
+2023-12-09 16:00:20,852 - __main__ - INFO - The latest price of mmm is: 103.37000274658203
+2023-12-09 16:00:20,959 - __main__ - INFO - The latest price of aapl is: 195.7100067138672
+2023-12-09 16:00:20,959 - __main__ - INFO - Portfolio file: gain_loss_report.csv written to drive.
